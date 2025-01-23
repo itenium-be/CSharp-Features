@@ -23,3 +23,7 @@ Linq: CountBy, AggregateBy
 - Small refresher on Deferred execution?
 - Multiple looping over IEnumerable?
 - IEnumerable vs IQueryable?
+
+Params collection accepts any collection type now (C#13)
+
+
